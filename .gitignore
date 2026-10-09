@@ -1,0 +1,11 @@
+# Зависимости Composer
+/vendor/
+/composer.lock
+
+# Настройки IDE
+/.idea/
+
+# Кэши инструментов
+/.php-cs-fixer.cache
+/.phpunit.cache/
+/.phpunit.result.cache
